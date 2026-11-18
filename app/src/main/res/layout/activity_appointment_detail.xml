@@ -1,0 +1,11 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/bg_screen">
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="22dp">
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Chi tiết lịch hẹn" android:textSize="26sp" android:textStyle="bold" android:textColor="#124559" android:paddingBottom="20dp"/>
+<TextView android:id="@+id/tvTitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="23sp" android:textStyle="bold" android:textColor="#124559" android:padding="16dp" android:background="@drawable/bg_card"/>
+<TextView android:id="@+id/tvLocation" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="17sp" android:textColor="#526A75" android:padding="14dp" android:layout_marginTop="10dp" android:background="@drawable/bg_card"/>
+<TextView android:id="@+id/tvDateTime" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="17sp" android:textColor="#526A75" android:padding="14dp" android:layout_marginTop="10dp" android:background="@drawable/bg_card"/>
+<Switch android:id="@+id/swReminder" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Nhắc nhở" android:padding="12dp" android:layout_marginTop="12dp"/>
+<TextView android:id="@+id/tvReminderStatus" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Đang tắt" android:textColor="#176B87" android:textStyle="bold" android:paddingLeft="12dp"/>
+<Button android:id="@+id/btnBack" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="QUAY LẠI" android:backgroundTint="#176B87" android:textColor="#FFFFFF" android:layout_marginTop="24dp"/>
+<Button android:id="@+id/btnDelete" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="XÓA LỊCH HẸN" android:backgroundTint="#C62828" android:textColor="#FFFFFF" android:layout_marginTop="8dp"/>
+</LinearLayout></ScrollView>

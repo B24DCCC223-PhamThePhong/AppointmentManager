@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:1:1-13:12
+	package
+		INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:2:5-12:19
+INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:2:5-12:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml
+	android:supportsRtl
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:2:110-136
+	android:label
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:2:50-82
+	android:allowBackup
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:2:83-109
+	android:theme
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:2:18-49
+activity#com.example.appointmentmanager.AppointmentDetailActivity
+ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:3:9-63
+	android:name
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:3:19-60
+activity#com.example.appointmentmanager.AddAppointmentActivity
+ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:4:9-60
+	android:name
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:4:19-57
+activity#com.example.appointmentmanager.MainActivity
+ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:5:9-50
+	android:name
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:5:19-47
+activity#com.example.appointmentmanager.LoginActivity
+ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:exported
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:6:49-72
+	android:name
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:6:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:7:13-10:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml:9:27-74
+uses-sdk
+INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\oumak\Downloads\AppointmentManager\app\src\main\AndroidManifest.xml

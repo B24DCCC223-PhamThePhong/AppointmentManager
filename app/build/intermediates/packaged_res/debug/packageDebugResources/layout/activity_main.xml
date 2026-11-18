@@ -1,0 +1,7 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:background="@drawable/bg_screen" android:padding="18dp">
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Lịch hẹn của tôi" android:textSize="27sp" android:textStyle="bold" android:textColor="#124559" android:paddingTop="8dp" android:paddingBottom="12dp"/>
+<TextView android:id="@+id/tvStats" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Tổng lịch hẹn: 0 • Đang nhắc: 0" android:textColor="#FFFFFF" android:backgroundTint="#176B87" android:background="@drawable/bg_card" android:padding="14dp" android:textSize="15sp"/>
+<Button android:id="@+id/btnAdd" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="+  Thêm lịch hẹn" android:textColor="#FFFFFF" android:backgroundTint="#176B87" android:layout_marginTop="12dp" android:layout_marginBottom="8dp"/>
+<ListView android:id="@+id/listAppointments" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:divider="#DCE5E9" android:dividerHeight="8dp" android:clipToPadding="false" android:paddingBottom="8dp"/>
+<TextView android:id="@+id/tvEmpty" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Chưa có lịch hẹn nào." android:gravity="center" android:textColor="#607D8B" android:visibility="gone" android:padding="20dp"/>
+</LinearLayout>
